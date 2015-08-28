@@ -1,0 +1,26 @@
+{
+  "name": "gulp-demo",
+  "version": "1.0.0",
+  "description": "Super duper demo of gulp awesomeness.",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "jshint-stylish": "^2.0.1",
+    "gulp-jshint": "^1.11.2",
+    "gulp": "^3.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunnen/gulp-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunnen/gulp-demo/issues"
+  },
+  "homepage": "https://github.com/brunnen/gulp-demo#readme"
+}
